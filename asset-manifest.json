@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e8e2b6c.chunk.css",
+    "main.js": "/static/js/main.d849789e.chunk.js",
+    "main.js.map": "/static/js/main.d849789e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.218e6c98.js",
+    "runtime-main.js.map": "/static/js/runtime-main.218e6c98.js.map",
+    "static/js/2.3e86fa51.chunk.js": "/static/js/2.3e86fa51.chunk.js",
+    "static/js/2.3e86fa51.chunk.js.map": "/static/js/2.3e86fa51.chunk.js.map",
+    "static/js/3.4f8f275c.chunk.js": "/static/js/3.4f8f275c.chunk.js",
+    "static/js/3.4f8f275c.chunk.js.map": "/static/js/3.4f8f275c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3e8e2b6c.chunk.css.map": "/static/css/main.3e8e2b6c.chunk.css.map",
+    "static/js/2.3e86fa51.chunk.js.LICENSE.txt": "/static/js/2.3e86fa51.chunk.js.LICENSE.txt",
+    "static/media/default.css": "/static/media/Poppins-Medium.9e1bb626.ttf",
+    "static/media/identité.svg": "/static/media/identité.47a29c5b.svg",
+    "static/media/logo.webp": "/static/media/logo.36dc5737.webp",
+    "static/media/mail.svg": "/static/media/mail.ecef3ed6.svg",
+    "static/media/materialdesignicons.min.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/personne.svg": "/static/media/personne.7dd3db0f.svg",
+    "static/media/scolarité1.svg": "/static/media/scolarité1.ba01108c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.218e6c98.js",
+    "static/js/2.3e86fa51.chunk.js",
+    "static/css/main.3e8e2b6c.chunk.css",
+    "static/js/main.d849789e.chunk.js"
+  ]
+}
