@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cad0090.chunk.css",
+    "main.js": "/static/js/main.ad78a2c4.chunk.js",
+    "main.js.map": "/static/js/main.ad78a2c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79bbca2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79bbca2a.js.map",
+    "static/js/2.20561ea7.chunk.js": "/static/js/2.20561ea7.chunk.js",
+    "static/js/2.20561ea7.chunk.js.map": "/static/js/2.20561ea7.chunk.js.map",
+    "static/js/3.c4d47e22.chunk.js": "/static/js/3.c4d47e22.chunk.js",
+    "static/js/3.c4d47e22.chunk.js.map": "/static/js/3.c4d47e22.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9cad0090.chunk.css.map": "/static/css/main.9cad0090.chunk.css.map",
+    "static/js/2.20561ea7.chunk.js.LICENSE.txt": "/static/js/2.20561ea7.chunk.js.LICENSE.txt",
+    "static/media/default.css": "/static/media/Poppins-Medium.9e1bb626.ttf",
+    "static/media/consulterMail.svg": "/static/media/consulterMail.af4d40f8.svg",
+    "static/media/logo.webp": "/static/media/logo.36dc5737.webp",
+    "static/media/materialdesignicons.min.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79bbca2a.js",
+    "static/js/2.20561ea7.chunk.js",
+    "static/css/main.9cad0090.chunk.css",
+    "static/js/main.ad78a2c4.chunk.js"
+  ]
+}
